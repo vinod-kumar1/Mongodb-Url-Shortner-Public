@@ -17,3 +17,4 @@ Steps to deploy the client side code
 https://www.mongodb.com/docs/atlas/security/ip-access-list/
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
 
+I know I said its a shorturl project but its generating a long ugly url but I've deployed my server in vercel and I have to use that url as endpoint. I'll try to imporve it 🫡
